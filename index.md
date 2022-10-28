@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Assitant and a Doctoral Candidate at Purdue University. I work with Dongyan Xu and Z. Berkay Celik. My broad research area is Information Security. Since starting my Ph.D. at Purdue University, I have focused on Automotive Security. I also have industrial research experience through working with Boeing as a Cyber Security Researcher, where I worked on research projects involving the security of avionic networks and mesh networks. 
+I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad research area is Information Security. Since starting my Ph.D. at Purdue University, I have worked closely with Dr. Dongyan Xu and Dr. Z. Berkay Celik, where I focused on Automotive Security. I also have industrial research experience through working with Boeing as a Cyber Security Researcher, where I was in several security research projects pertaining to avionic networks, mesh networks, and other areas. 
 
 
 ## Research Interests
