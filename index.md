@@ -77,7 +77,28 @@ United States Patent No.: US10467174B2, 2019
   [[PDF](https://patentimages.storage.googleapis.com/1a/aa/d6/377fb195718e8d/US10467174.pdf)]   
 
 
-## Services
+## Research Experience
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- **Research Assistant**
+  <br>
+Purdue University, West Lafayette, Indiana, U.S.A.
+  <br>
+  2017-Present
+
+- **Cyber Security Researcher (Summer Only)**
+  <br>
+Boeing, Huntsville, Alabama, U.S.A.
+  <br>
+  2017-2022
+
+- **Cyber Security Researcher (Full Time)**
+  <br>
+Boeing, Huntsville, Alabama, U.S.A.
+  <br>
+  2015-2017
+  
+- **Graduate Student**
+  <br>
+The State University of New York at Binghamton, Binghamton, New York, U.S.A.
+  <br>
+  2014-2015
