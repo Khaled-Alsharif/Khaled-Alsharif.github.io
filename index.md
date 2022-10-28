@@ -16,7 +16,7 @@ I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad
 
 ## Publications
 
-- **Paper on Using Timing to Secure CAN Traffic**
+- **Paper on Securing CAN Traffic**
   <br>
   **Khaled Serag**, Rohit Bhatia, Akram Faqih, Muslum Ozgur Ozmen, Vireshwar Kumar, Z.
 Berkay Celik, Dongyan Xu
