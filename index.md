@@ -9,9 +9,10 @@ I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad
 
 ## Research Interests
 
-- **Cyber Security:** image recognition, image generation, video captioning
+- **Network Security:** Serial Busses, Mesh Networks, Ethernet, Wireless Networks
 
-ur paper about few-shot learning is accepted to CVPR 2019.
+- **Cyber Physical Systems Security:** Automotive Systems, Autonomous Vehicles, Avionic Systems, Unmanned Aerial Vehicles (UAVs) 
+
 
 ## Publications
 
