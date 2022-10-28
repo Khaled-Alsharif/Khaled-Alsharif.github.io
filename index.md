@@ -16,12 +16,12 @@ I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad
 
 ## Publications
 
-- **Paper on Securing CAN Traffic**
+- **Paper in Major Revision**
   <br>
   **Khaled Serag**, Rohit Bhatia, Akram Faqih, Muslum Ozgur Ozmen, Vireshwar Kumar, Z.
 Berkay Celik, Dongyan Xu
   <br>
-  Paper in Major Revision for the 32𝑛𝑑 USENIX Security Symposium, 2023. (Paper’s Name Hidden For Identity
+   In Proceedings of the 32𝑛𝑑 USENIX Security Symposium, 2023. (Paper’s Name Hidden For Identity
 Disclosure Purposes). **USENIX 2023**.
   <br>
 
@@ -29,8 +29,7 @@ Disclosure Purposes). **USENIX 2023**.
   <br>
    **Khaled Serag**, Vireshwar Kumar, Z. Berkay Celik, Rohit Bhatia, Mathias Payer, Dongyan Xu.
   <br>
-  In
-Proceedings of the NDSS’ Fourth International Workshop on Automotive and Autonomous Vehicle Security **(AutoSec 2022)**. [[PDF](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23013_paper.pdf)] 
+  In Proceedings of the NDSS’ Fourth International Workshop on Automotive and Autonomous Vehicle Security **(AutoSec 2022)**. [[PDF](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23013_paper.pdf)] 
   
 - **Exposing New Vulnerabilities of Error Handling Mechanism in CAN**
   <br>
