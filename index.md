@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad research area is Information Security. Since starting my Ph.D. at Purdue University, I have worked closely with Dr. Dongyan Xu and Dr. Z. Berkay Celik, where I focused on Automotive Security. I also have industrial research experience through working with Boeing as a Cyber Security Researcher, where I was in several security research projects pertaining to avionic networks, mesh networks, and other areas. 
+I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad research area is Information Security. Since starting my Ph.D. at Purdue University, I have worked closely with Dr. Dongyan Xu and Dr. Z. Berkay Celik, where I focused on Automotive Security. I also have industrial research experience through working with Boeing as a Cyber Security Researcher, where I was involved in several security research projects pertaining to avionic networks, mesh networks, IoT devices, and other areas. 
 
 
 ## Research Interests
@@ -16,22 +16,24 @@ I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Paper on Using Timing to Secure CAN Traffic**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Khaled Serag**, Rohit Bhatia, Akram Faqih, Muslum Ozgur Ozmen, Vireshwar Kumar, Z.
+Berkay Celik, Dongyan Xu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Paper in Major Revision for the 32𝑛𝑑 USENIX Security Symposium, 2023. (Paper’s Name Hidden For Identity
+Disclosure Purposes). **USENIX 2023**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Attacks on CAN Error Handling Mechanism**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+   **Khaled Serag**, Vireshwar Kumar, Z. Berkay Celik, Rohit Bhatia, Mathias Payer, Dongyan Xu.
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  In
+Proceedings of the NDSS’ Fourth International Workshop on Automotive and Autonomous Vehicle Security **(AutoSec 2022)**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
+  [[PDF](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23013_paper.pdf)] 
+  
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
   Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
