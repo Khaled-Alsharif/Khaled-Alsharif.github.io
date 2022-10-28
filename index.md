@@ -94,7 +94,5 @@ The State University of New York at Binghamton, Binghamton, New York, U.S.A.
   
   
 ## Curriculum Vitae
-
-<br>
 A copy of my C.V. could be found through this [[link](assets/KhaledSerag.pdf)]
   
