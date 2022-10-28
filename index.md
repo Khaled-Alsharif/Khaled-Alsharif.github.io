@@ -9,9 +9,9 @@ I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad
 
 ## Research Interests
 
-- **Network Security:** Serial Busses, Mesh Networks, Ethernet, Wireless Networks
+- **Network Security:** Serial Buses, Mesh Networks, Ethernet, Wireless Networks
 
-- **Cyber Physical Systems Security:** Automotive Systems, Autonomous Vehicles, Avionic Systems, Unmanned Aerial Vehicles (UAVs) 
+- **Cyber Physical Systems Security:** Automotive Systems, Autonomous Vehicles, Avionic Systems, Unmanned Aerial Vehicles (UAVs), IoT Devices 
 
 
 ## Publications
@@ -34,13 +34,50 @@ Proceedings of the NDSS’ Fourth International Workshop on Automotive and Auton
   <br>
   [[PDF](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23013_paper.pdf)] 
   
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Exposing New Vulnerabilities of Error Handling Mechanism in CAN**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Khaled Serag**, Rohit Bhatia, Vireshwar Kumar, Z. Berkay Celik, Dongyan Xu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  In Proceedings of the 30𝑡ℎ USENIX Security Symposium **USENIX 2021**
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](https://www.usenix.org/system/files/sec21-serag.pdf)] 
+  
+  
+- **Evading Voltage‑Based Intrusion Detection on Automotive CAN**
+  <br>
+  Rohit Bhatia, Vireshwar Kumar, **Khaled Serag**, Z. Berkay Celik, Mathias
+Payer, and Dongyan Xu
+  <br>
+  In Proceedings of the Network and Distributed System Security Symposium **(NDSS 2021)**
+  <br>
+  [[PDF](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-1_23013_paper.pdf)] 
+
+## Patents
+- **Multiple Security Level Monitor for Monitoring a Plurality of MIL‑STD‑1553 Buses with Multiple Independent Levels of Security**
+  <br>
+  Josh D Eckhardt, Thomas E Donofrio, **Khaled Serag** 
+  <br>
+  United States Patent No.: US10685125B2, 2020
+  <br>
+  [[PDF](https://patentimages.storage.googleapis.com/aa/c3/2a/441f7951e27072/US10685125.pdf)] 
+
+
+- **Bus data monitor**
+  <br>
+  Josh D Eckhardt, Thomas E Donofrio, **Khaled Serag** 
+  <br>
+  United States Patent No.: US10691573B2, 2020
+  <br>
+  [[PDF](https://patentimages.storage.googleapis.com/0c/ac/60/8f05f6c2dd22fa/US10691573.pdf)] 
+  
+- **System and Method of Monitoring Data Traffic on a MIL‑STD‑1553 Data Bus**
+  <br>
+  Josh D Eckhardt, Thomas E Donofrio, **Khaled Serag** 
+  <br>
+United States Patent No.: US10467174B2, 2019
+  <br>
+  [[PDF](https://patentimages.storage.googleapis.com/1a/aa/d6/377fb195718e8d/US10467174.pdf)]   
+
 
 ## Services
 
