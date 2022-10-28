@@ -30,9 +30,7 @@ Disclosure Purposes). **USENIX 2023**.
    **Khaled Serag**, Vireshwar Kumar, Z. Berkay Celik, Rohit Bhatia, Mathias Payer, Dongyan Xu.
   <br>
   In
-Proceedings of the NDSS’ Fourth International Workshop on Automotive and Autonomous Vehicle Security **(AutoSec 2022)**.
-  <br>
-  [[PDF](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23013_paper.pdf)] 
+Proceedings of the NDSS’ Fourth International Workshop on Automotive and Autonomous Vehicle Security **(AutoSec 2022)**. [[PDF](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23013_paper.pdf)] 
   
 - **Exposing New Vulnerabilities of Error Handling Mechanism in CAN**
   <br>
