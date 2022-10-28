@@ -36,9 +36,7 @@ Proceedings of the NDSS’ Fourth International Workshop on Automotive and Auton
   <br>
   **Khaled Serag**, Rohit Bhatia, Vireshwar Kumar, Z. Berkay Celik, Dongyan Xu
   <br>
-  In Proceedings of the 30𝑡ℎ USENIX Security Symposium **USENIX 2021**
-  <br>
-  [[PDF](https://www.usenix.org/system/files/sec21-serag.pdf)] 
+  In Proceedings of the 30𝑡ℎ USENIX Security Symposium **(USENIX 2021)**. [[PDF](https://www.usenix.org/system/files/sec21-serag.pdf)] 
   
   
 - **Evading Voltage‑Based Intrusion Detection on Automotive CAN**
@@ -46,35 +44,27 @@ Proceedings of the NDSS’ Fourth International Workshop on Automotive and Auton
   Rohit Bhatia, Vireshwar Kumar, **Khaled Serag**, Z. Berkay Celik, Mathias
 Payer, and Dongyan Xu
   <br>
-  In Proceedings of the Network and Distributed System Security Symposium **(NDSS 2021)**
-  <br>
-  [[PDF](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-1_23013_paper.pdf)] 
+  In Proceedings of the Network and Distributed System Security Symposium **(NDSS 2021)**. [[PDF](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-1_23013_paper.pdf)] 
 
 ## Patents
 - **Multiple Security Level Monitor for Monitoring a Plurality of MIL‑STD‑1553 Buses with Multiple Independent Levels of Security**
   <br>
   Josh D Eckhardt, Thomas E Donofrio, **Khaled Serag** 
   <br>
-  United States Patent No.: US10685125B2, 2020
-  <br>
-  [[PDF](https://patentimages.storage.googleapis.com/aa/c3/2a/441f7951e27072/US10685125.pdf)] 
+  United States Patent No.: US10685125B2, 2020. [[PDF](https://patentimages.storage.googleapis.com/aa/c3/2a/441f7951e27072/US10685125.pdf)] 
 
 
 - **Bus data monitor**
   <br>
   Josh D Eckhardt, Thomas E Donofrio, **Khaled Serag** 
   <br>
-  United States Patent No.: US10691573B2, 2020
-  <br>
-  [[PDF](https://patentimages.storage.googleapis.com/0c/ac/60/8f05f6c2dd22fa/US10691573.pdf)] 
+  United States Patent No.: US10691573B2, 2020. [[PDF](https://patentimages.storage.googleapis.com/0c/ac/60/8f05f6c2dd22fa/US10691573.pdf)] 
   
 - **System and Method of Monitoring Data Traffic on a MIL‑STD‑1553 Data Bus**
   <br>
   Josh D Eckhardt, Thomas E Donofrio, **Khaled Serag** 
   <br>
-United States Patent No.: US10467174B2, 2019
-  <br>
-  [[PDF](https://patentimages.storage.googleapis.com/1a/aa/d6/377fb195718e8d/US10467174.pdf)]   
+United States Patent No.: US10467174B2, 2019. [[PDF](https://patentimages.storage.googleapis.com/1a/aa/d6/377fb195718e8d/US10467174.pdf)]   
 
 
 ## Research Experience
