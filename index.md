@@ -91,3 +91,10 @@ Boeing, Huntsville, Alabama, U.S.A.
 The State University of New York at Binghamton, Binghamton, New York, U.S.A.
   <br>
   2014-2015
+  
+  
+## Curriculum Vitae
+
+<br>
+A copy of my C.V. could be found through this [[link](assets/KhaledSerag.pdf)]
+  
