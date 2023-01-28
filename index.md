@@ -16,13 +16,12 @@ I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad
 
 ## Publications
 
-- **Paper in Major Revision**
+- **ZBCAN: A Zero‑Byte CAN Defense System**
   <br>
   **Khaled Serag**, Rohit Bhatia, Akram Faqih, Muslum Ozgur Ozmen, Vireshwar Kumar, Z.
 Berkay Celik, Dongyan Xu
   <br>
-   In Proceedings of the 32𝑛𝑑 USENIX Security Symposium, 2023. (Paper’s Name Hidden For Identity
-Disclosure Purposes). **USENIX 2023**.
+   In Proceedings of the 32𝑛𝑑 USENIX Security Symposium, 2023 **(USENIX 2023)**.
   <br>
 
 - **Attacks on CAN Error Handling Mechanism**
