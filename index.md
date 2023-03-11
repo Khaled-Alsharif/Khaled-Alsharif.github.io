@@ -21,7 +21,7 @@ I am a Research Assitant and a Doctoral Candidate at Purdue University. My broad
   **Khaled Serag**, Rohit Bhatia, Akram Faqih, Muslum Ozgur Ozmen, Vireshwar Kumar, Z.
 Berkay Celik, Dongyan Xu
   <br>
-   In Proceedings of the 32𝑛𝑑 USENIX Security Symposium, 2023 **(USENIX 2023)**.
+   In Proceedings of the 32𝑛𝑑 USENIX Security Symposium, 2023 **(USENIX 2023)**. [[PDF](https://github.com/Khaled-Alsharif/Khaled-Alsharif.github.io/blob/main/assets/ZBCAN.pdf)] 
   <br>
 
 - **Attacks on CAN Error Handling Mechanism**
