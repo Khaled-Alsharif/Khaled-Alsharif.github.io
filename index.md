@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a post-doctoral research assistant at Purdue University. I finished my Ph.D. at Purdue in August 2023. My broad research area is Information Security. Since joining Purdue, I have worked closely with Dr. Dongyan Xu and Dr. Z. Berkay Celik, where I focused on Automotive Security. I also have industrial research experience through working with Boeing as a Cyber Security Researcher, where I was involved in several security research projects pertaining to avionic networks, mesh networks, IoT devices, and other areas. 
+I am a post-doctoral research assistant at Purdue University. I finished my Ph.D. at Purdue in August 2023. My broad research area is Information Security. Since I joined Purdue, I have been working closely with Dr. Dongyan Xu and Dr. Z. Berkay Celik on several Automotive and ICS Security projects. I also have industrial research experience through working with Boeing as a Cyber Security Researcher, where I was involved in several security research projects pertaining to avionic networks, mesh networks, IoT devices, and other areas. 
 
 
 ## Research Interests
