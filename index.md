@@ -17,7 +17,7 @@ Previously, I have worked at Purdue University as a research assistant, where I 
 
 ## Publications
 
-- **ERACAN: Defending Against an Emerging CAN Threat Model (Distinguished Paper Award)**
+- **ERACAN: Defending Against an Emerging CAN Threat Model** (Distinguished Paper Award)
   <br>
   Zhaozhou Tang, **Khaled Serag**, Saman Zonouz, Z. Berkay Celik, Dongyan Xu, Raheem Beyah
   <br>
