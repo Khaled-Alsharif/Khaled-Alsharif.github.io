@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a scientist at the Qatar Computing Research Institute (QCRI). My broad research area is CPS security, especially automotive and ICS security.
-Previously, I have worked at Purdue University as a research assistant, where I obtained my Ph.D. in August 2023. I also have industrial research experience through working with Boeing as a cyber security researcher, where I was involved in several security research projects pertaining to avionic networks, mesh networks, IoT devices, and other areas. 
+Previously, I worked at Purdue University as a research assistant, where I obtained my Ph.D. in August 2023. I also have industrial research experience through working with Boeing as a cyber security researcher, where I was involved in several security research projects pertaining to avionic networks, mesh networks, IoT, and other areas. 
 
 
 ## Research Interests
