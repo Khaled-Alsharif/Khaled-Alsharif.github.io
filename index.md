@@ -81,7 +81,7 @@ Qatar Computing Research Institute, Doha, Qatar
   <br>
   2024-Present
 
-- **Post Doctoral Research Assistant**
+- **Post Doctoral Research Associate**
   <br>
 Purdue University, West Lafayette, Indiana, U.S.A.
   <br>
