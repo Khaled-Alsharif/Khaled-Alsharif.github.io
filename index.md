@@ -4,17 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a post-doctoral research assistant at Purdue University. I finished my Ph.D. at Purdue in August 2023. My broad research area is Information Security. Since I joined Purdue, I have been working closely with Dr. Dongyan Xu and Dr. Z. Berkay Celik on several Automotive and ICS Security projects. I also have industrial research experience through working with Boeing as a Cyber Security Researcher, where I was involved in several security research projects pertaining to avionic networks, mesh networks, IoT devices, and other areas. 
+I am a scientist at the Qatar Computing Research Institute (QCRI). My broad research area is CPS security, especially automotive and ICS security.
+Previously, I have worked at Purdue University as a research assistant, where I also obtained my Ph.D. in August 2023. I also have industrial research experience through working with Boeing as a cyber security researcher, where I was involved in several security research projects pertaining to avionic networks, mesh networks, IoT devices, and other areas. 
 
 
 ## Research Interests
 
 - **Network Security:** Serial Buses, Mesh Networks, Ethernet, Wireless Networks
 
-- **Cyber Physical Systems Security:** Automotive Systems, Autonomous Vehicles, Avionic Systems, Unmanned Aerial Vehicles (UAVs), IoT Devices 
+- **Cyber Physical Systems Security:** ICS security, Automotive Systems, Autonomous Vehicles, Avionic Systems, Unmanned Aerial Vehicles (UAVs), IoT Devices 
 
 
 ## Publications
+
+- **ERACAN: Defending Against an Emerging CAN Threat Model (Distinguished Paper Award)**
+  <br>
+  Zhaozhou Tang, **Khaled Serag**, Saman Zonouz, Z. Berkay Celik, Dongyan Xu, Raheem Beyah
+  <br>
+  In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS ’24)
 
 - **ZBCAN: A Zero‑Byte CAN Defense System**
   <br>
