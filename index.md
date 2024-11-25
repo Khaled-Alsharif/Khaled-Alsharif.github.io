@@ -21,7 +21,7 @@ Previously, I have worked at Purdue University as a research assistant, where I 
   <br>
   Zhaozhou Tang, **Khaled Serag**, Saman Zonouz, Z. Berkay Celik, Dongyan Xu, Raheem Beyah
   <br>
-  In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security **(CCS ’24)**. [[PDF](https://khaled-alsharif.github.io/assets/Eracan.pdf)]
+  In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security **(CCS ’24)**. [[PDF](https://khaled-alsharif.github.io/assets/ERACAN-2.pdf)]
 
 - **ZBCAN: A Zero‑Byte CAN Defense System**
   <br>
