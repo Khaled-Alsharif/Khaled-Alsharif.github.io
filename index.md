@@ -74,11 +74,24 @@ United States Patent No.: US10467174B2, 2019. [[PDF](https://patentimages.storag
 
 ## Research Experience
 
+
+- **Scientist**
+  <br>
+Qatar Computing Research Institute, Doha, Qatar
+  <br>
+  2024-Present
+
+- **Post Doctoral Research Assistant**
+  <br>
+Purdue University, West Lafayette, Indiana, U.S.A.
+  <br>
+  2023-2024
+
 - **Research Assistant**
   <br>
 Purdue University, West Lafayette, Indiana, U.S.A.
   <br>
-  2017-Present
+  2017-2023
 
 - **Cyber Security Researcher (Summer Only)**
   <br>
