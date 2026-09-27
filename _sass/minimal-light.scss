@@ -51,11 +51,11 @@ papertitle {
   }
 
   .header-flex .header-text {
-    order: 1;
+    order: 2;
   }
 
   .header-flex .image.avatar {
-    order: 2;
+    order: 1;
   }
 
   .header-text h1 {
@@ -125,8 +125,8 @@ papertitle {
 
       .image.avatar img {
         border-radius: 4px;
-        width: 180px;
-        height: 190px;
+        width: 220px;
+        height: 230px;
         object-fit: cover;
         padding:0;
       }
@@ -374,9 +374,9 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 6px;
-        width: 90px;
-        height: 90px;
+        border-radius: 4px;
+        width: 170px;
+        height: 180px;
         object-fit: cover;
         padding:0;
       }
@@ -423,9 +423,9 @@ footer {
   }
 
   .image.avatar img {
-      border-radius: 6px;
-      width: 72px;
-      height: 72px;
+      border-radius: 4px;
+      width: 130px;
+      height: 140px;
       object-fit: cover;
       padding:0;
   }
