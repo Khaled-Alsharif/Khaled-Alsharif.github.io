@@ -44,9 +44,18 @@ papertitle {
 
   .header-flex {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
+    justify-content: space-between;
     gap: 28px;
     text-align: left;
+  }
+
+  .header-flex .header-text {
+    order: 1;
+  }
+
+  .header-flex .image.avatar {
+    order: 2;
   }
 
   .header-text h1 {
@@ -115,9 +124,9 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 6px;
-        width: 110px;
-        height: 110px;
+        border-radius: 4px;
+        width: 180px;
+        height: 190px;
         object-fit: cover;
         padding:0;
       }
