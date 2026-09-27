@@ -4,16 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a scientist at the Qatar Computing Research Institute (QCRI). My current projects include an ICS threat intelligence framework, vulnerability analysis of CAN XL and 10BASE-T1S Ethernet, and autonomous vehicle sensor security.
+I am a Scientist at the Qatar Computing Research Institute (QCRI). My research focuses on the security of cyber-physical systems, particularly industrial control systems and in-vehicle networks. I study how vulnerabilities emerge from communication protocols and system interactions, and how they can be systematically identified, analyzed, and mitigated.
 
-I received my Ph.D. in Computer Science from Purdue University in August 2023, focusing on vulnerability identification and defense construction for the CAN bus. I also have industrial research experience at Boeing, working on security for avionic networks, mesh networks, and IoT.
+I received my Ph.D. in Computer Science from Purdue University in 2023, where my research focused on vulnerability identification and defense construction for the Controller Area Network (CAN). I also have industrial research experience at Boeing in avionics and network security.
 
 
 ## Research Interests
 
-- **Network Security:** Serial Buses, Mesh Networks, Ethernet, Wireless Networks
 
-- **Cyber Physical Systems Security:** ICS security, Automotive Systems, Autonomous Vehicles, Avionic Systems, Unmanned Aerial Vehicles (UAVs), IoT Devices 
+- **Cyber Physical Systems Security:** ICS security, Automotive Systems, Autonomous Vehicles, Avionic Systems, Unmanned Aerial Vehicles (UAVs), IoT Devices
+- **Network and Protocol Security:** In-Vehicle Networks, Industrial Networks, Ethernet, Serial Buses
+- **Security Analysis:** Vulnerability Identification, Formal Analysis, Intrusion Detection and Attack Investigation
 
 
 ## Publications
