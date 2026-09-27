@@ -13,7 +13,9 @@ I received my Ph.D. in Computer Science from Purdue University in 2023, where my
 
 
 - **Cyber Physical Systems Security:** ICS security, Automotive Systems, Autonomous Vehicles, Avionic Systems, Unmanned Aerial Vehicles (UAVs), IoT Devices
+- 
 - **Network and Protocol Security:** In-Vehicle Networks, Industrial Networks, Ethernet, Serial Buses
+- 
 - **Security Analysis:** Vulnerability Identification, Formal Analysis, Intrusion Detection and Attack Investigation
 
 
