@@ -26,25 +26,27 @@
   <body>
     <div class="wrapper">
       <header>
-        
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
-        {% endif %}
-
-        <h1>{{ site.title }}</h1> 
-        
-        {% if site.position %}
-        {{ site.position }}
-        <br>
-        {% endif %}
-        {{ site.affiliation }}
-        {% if site.email %}
-        <br>
-        {{ site.email }}
-        <br>
-        <br>
-        {% endif %}
-
+        <div class="header-flex">
+          {% if site.avatar %}
+          <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
+          {% endif %}
+          <div class="header-text">
+            <h1>{{ site.title }}</h1>
+            <p class="position">
+              {% if site.position %}{{ site.position }}{% endif %}
+              {% if site.position and site.affiliation %} &middot; {% endif %}
+              {{ site.affiliation }}
+            </p>
+            {% if site.email %}
+            <p class="contact-line"><i class="fas fa-envelope"></i> {{ site.email }}</p>
+            {% endif %}
+            <p class="links-line">
+              {% if site.google_scholar %}<a href="{{ site.google_scholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Google Scholar</a>{% endif %}
+              {% if site.linkedin %}<span class="sep">|</span><a href="{{ site.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>{% endif %}
+              <span class="sep">|</span><a href="./assets/KhaledSerag.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Download CV</a>
+            </p>
+          </div>
+        </div>
       </header>
       <section>
 
@@ -56,26 +58,6 @@
 
       </section>
       <footer>
-        <div class="social-icons">
-
-          {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          {% endif %}
-          {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
-          </a>
-          {% endif %}
-          {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-          {% endif %}
-        </div>
-        <br>
-        <br>
         <br>
       </footer>
     </div>
