@@ -33,12 +33,15 @@
           <div class="header-text">
             <h1>{{ site.title }}</h1>
             <p class="position">
-              {% if site.position %}{{ site.position }}{% endif %}
-              {% if site.position and site.affiliation %} &middot; {% endif %}
+              {% if site.position %}{{ site.position }}<br>{% endif %}
               {{ site.affiliation }}
             </p>
-            {% if site.email %}
-            <p class="contact-line"><i class="fas fa-envelope"></i> {{ site.email }}</p>
+            {% if site.location or site.email %}
+            <p class="contact-line">
+              {% if site.location %}<i class="fas fa-map-marker-alt"></i> {{ site.location }}{% endif %}
+              {% if site.location and site.email %}&nbsp;|&nbsp;{% endif %}
+              {% if site.email %}<i class="fas fa-envelope"></i> {{ site.email }}{% endif %}
+            </p>
             {% endif %}
             <p class="links-line">
               {% if site.google_scholar %}<a href="{{ site.google_scholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Google Scholar</a>{% endif %}
