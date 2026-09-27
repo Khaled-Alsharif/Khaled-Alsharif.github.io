@@ -46,16 +46,21 @@ papertitle {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 28px;
+    gap: 24px;
     text-align: left;
   }
 
   .header-flex .header-text {
     order: 2;
+    flex: 1 1 auto;
+    min-width: 0;
+    margin: 0;
   }
 
   .header-flex .image.avatar {
     order: 1;
+    flex: 0 0 auto;
+    margin: 0;
   }
 
   .header-text h1 {
@@ -312,14 +317,26 @@ section {
   padding-bottom:20px;
 }
 
-section ul {
-  list-style: none;
-  padding-left: 0;
+section ul,
+.wrapper section ul,
+section ol {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 
-.pub-award {
-  color: var(--accent);
+section ul li,
+.wrapper section ul li {
+  list-style: none !important;
+  list-style-type: none !important;
+}
+
+.pub-award,
+section .pub-award,
+li .pub-award {
+  color: #8c1515 !important;
   font-size: 0.9rem;
+  display: inline-block;
 }
 
 small {
