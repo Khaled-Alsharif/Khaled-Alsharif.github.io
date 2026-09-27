@@ -22,14 +22,14 @@ I received my Ph.D. in Computer Science from Purdue University in August 2023, f
   <br>
   **Khaled Serag**, Zhaozhou Tang, Sungwoo Kim, Vireshwar Kumar, Saman Zonouz, Raheem Beyah, Dongyan Xu, Z. Berkay Celik
   <br>
-  Network and Distributed System Security (NDSS) Symposium, 2027.
+  Network and Distributed System Security (NDSS) Symposium, 2027. [[PDF](https://khaled-alsharif.github.io/assets/sok-can-security.pdf)]
   <br>
 
 - **[A Formal Security Analysis of CAN XL](https://khaled-alsharif.github.io/assets/can-xl-formal-analysis.pdf)** (Distinguished Paper Award Runner-Up)
   <br>
   Zhaozhou Tang, **Khaled Serag**, Z. Berkay Celik, Vijay Ganesh, Saman Zonouz, Raheem Beyah
   <br>
-  35th USENIX Security Symposium (USENIX Security '26), 2026.
+  35th USENIX Security Symposium (USENIX Security '26), 2026. [[PDF](https://khaled-alsharif.github.io/assets/can-xl-formal-analysis.pdf)]
   <br>
 
 - **[WIP: Intrusion Detection and Localization for CAN by Extracting Propagation Delay Features from Message Intervals](https://khaled-alsharif.github.io/assets/can-delay-features-wip.pdf)**
