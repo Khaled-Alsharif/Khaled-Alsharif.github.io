@@ -44,7 +44,7 @@ papertitle {
 
   .header-flex {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: flex-start;
     gap: 24px;
     text-align: left;
@@ -64,22 +64,22 @@ papertitle {
   }
 
   .header-text h1 {
-    font-size: 40px;
-    margin: 0 0 18px;
-    line-height: 1.1;
+    font-size: 48px;
+    margin: 0 0 22px;
+    line-height: 1;
   }
 
   .header-text .position {
-    color: var(--muted);
-    font-size: 1.1rem;
+    color: var(--ink);
+    font-size: 1.2rem;
     line-height: 1.4;
-    margin: 0 0 20px;
+    margin: 0 0 26px;
   }
 
   .header-text .contact-line {
     color: var(--muted);
     font-size: 1rem;
-    margin: 0 0 8px;
+    margin: 0 0 10px;
   }
 
   .header-text .contact-line i {
